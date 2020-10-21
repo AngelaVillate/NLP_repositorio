@@ -1,2 +1,5 @@
 # NLP_repositorio
-Espacio para alojar prácticas de NLP
+Metodológa, investigadora y analista de información cualitativa para proyectos sociales
+Capacitadora en redacción y análisis de textos jurídicos.
+Storytelling wiht data: creación de documentos con valor, generación de contenidos
+Procesos de edición y publicación
